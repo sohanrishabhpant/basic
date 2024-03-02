@@ -8,10 +8,11 @@ function above18(age){
 const x=above18(19);
 console.log(x);
 console.log("rishabh");
-function heyhello(){
+function heyho(){
     console.log("sohan");
 }
 hayhello();
 function rishabh1(){
     console.log("hey bro i dont know");
 }
+console.log("alsdnfkasmdf");

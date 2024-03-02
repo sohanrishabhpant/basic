@@ -15,3 +15,4 @@ hayhello();
 function rishabh1(){
     console.log("hey bro i dont know");
 }
+// console.log("skfnmazk");

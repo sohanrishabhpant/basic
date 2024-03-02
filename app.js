@@ -12,3 +12,6 @@ function heyhello(){
     console.log("sohan");
 }
 hayhello();
+function rishabh1(){
+    console.log("hey bro i dont know");
+}
